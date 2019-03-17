@@ -1,3 +1,5 @@
+The talk: https://www.youtube.com/watch?v=MF0jFKvS4SI&t=250s
+
 ## Cruddy by Design
 
 During my talk at Laracon 2017, I shared some strategies I use to split large controllers into multiple small controllers.
